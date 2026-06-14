@@ -1,7 +1,7 @@
 import { ArrowUpRight } from 'lucide-react';
 import projectGdgoc from '../assets/images/project-gdgoc.png';
 import projectArkavidia from '../assets/images/project-arkavidia.png';
-import projectLockin from '../assets/images/project-lockin.jpg';
+import projectLockin from '../assets/images/project-lockin.png';
 import './Projects.css';
 
 const projects = [
